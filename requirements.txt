@@ -1,0 +1,8 @@
+setuptools
+wheel
+xgboost==2.1.0
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.5.2
+pyarrow==17.0.0
+tqdm==4.66.6
