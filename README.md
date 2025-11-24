@@ -1,0 +1,10 @@
+1: c_user_user.ipynb
+1: c_same_product.ipynb
+1: c_repurchase.ipynb
+1: c_age_cluster.ipynb
+1: c_recent_top.ipynb
+1: c_itemcf.ipynb
+1: c_weekly_trending.ipynb
+2: build_candidates.ipynb
+3: features.ipynb
+4: lgbm_ranker.ipynb

@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+matplotlib
+tqdm
+joblib
+pyarrow
+fastparquet
+ipykernel
+jupyter
+lightgbm
