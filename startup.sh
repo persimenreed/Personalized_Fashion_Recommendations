@@ -27,6 +27,8 @@ python3.11 -m pip install -U pip setuptools wheel
 # Explicitly install additional dependencies
 python3.11 -m pip install ipykernel
 python3.11 -m pip install lightgbm
+python3.11 -m pip install catboost
+python3.11 -m pip install xgboost
 python3.11 -m pip install graphviz
 python3.11 -m pip install matplotlib
 python3.11 -m pip install seaborn

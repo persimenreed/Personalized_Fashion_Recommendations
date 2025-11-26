@@ -31,3 +31,4 @@ venv/
 
 # Datasets and outputs
 data
+models/catboost_info/

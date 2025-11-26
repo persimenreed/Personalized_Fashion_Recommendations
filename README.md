@@ -7,4 +7,5 @@
 1: c_weekly_trending.ipynb
 2: build_candidates.ipynb
 3: features.ipynb
-4: lgbm_ranker.ipynb
+4: prepare_model_dataset.ipynb
+5: lgbm_ranker.ipynb // lgbm_classifier.ipynb // catboost_ranker.ipynb // xgboost_ranker.ipynb
