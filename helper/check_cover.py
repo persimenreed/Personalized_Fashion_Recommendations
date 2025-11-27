@@ -24,13 +24,15 @@ LABELS_CSV = OUTPUT_DIR / "labels_last_week.csv"
 LABELS_SET = OUTPUT_DIR / "labels_last_week.pkl"
 
 CANDIDATE_FILES = [
-    OUTPUT_DIR / "candidates_weekly_trending.parquet",
-    OUTPUT_DIR / "candidates_itemcf.parquet",
-    OUTPUT_DIR / "candidates_recent_top.parquet",
+    #OUTPUT_DIR / "candidates_weekly_trending.parquet",
+    #OUTPUT_DIR / "candidates_itemcf.parquet",
+    #OUTPUT_DIR / "candidates_popularity.parquet",
+    #OUTPUT_DIR / "candidates_recent_top.parquet",
     OUTPUT_DIR / "candidates_repurchase.parquet",
-    OUTPUT_DIR / "candidates_user_overlap.parquet",
-    OUTPUT_DIR / "candidates_age_bucket_pop.parquet",
-    # OUTPUT_DIR / "candidates_same_product.parquet",  # optional
+    #OUTPUT_DIR / "candidates_user_overlap.parquet",
+    #OUTPUT_DIR / "candidates_age_bucket_pop.parquet",
+    #OUTPUT_DIR / "candidates_category_affinity.parquet",
+    #OUTPUT_DIR / "candidates_same_product.parquet"
 ]
 
 

@@ -32,3 +32,4 @@ venv/
 # Datasets and outputs
 data
 models/catboost_info/
+test.ipynb
