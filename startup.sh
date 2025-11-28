@@ -34,6 +34,7 @@ python3.11 -m pip install matplotlib
 python3.11 -m pip install seaborn
 python3.11 -m pip install fastparquet
 python3.11 -m pip install scikit-learn
+python3.11 -m pip install implicit
 
 # Install cuDF (ensure compatibility with CUDA version)
 python3.11 -m pip install --extra-index-url=https://pypi.nvidia.com cudf-cu12==24.08.* dask-cudf-cu12==24.08.*

@@ -28,11 +28,12 @@ CANDIDATE_FILES = [
     #OUTPUT_DIR / "candidates_itemcf.parquet",
     #OUTPUT_DIR / "candidates_popularity.parquet",
     #OUTPUT_DIR / "candidates_recent_top.parquet",
-    OUTPUT_DIR / "candidates_repurchase.parquet",
+    #OUTPUT_DIR / "candidates_repurchase.parquet",
     #OUTPUT_DIR / "candidates_user_overlap.parquet",
     #OUTPUT_DIR / "candidates_age_bucket_pop.parquet",
     #OUTPUT_DIR / "candidates_category_affinity.parquet",
-    #OUTPUT_DIR / "candidates_same_product.parquet"
+    #OUTPUT_DIR / "candidates_same_product.parquet",
+    #OUTPUT_DIR / "candidates_embedding.parquet",
 ]
 
 
