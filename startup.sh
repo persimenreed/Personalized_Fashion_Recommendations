@@ -9,6 +9,7 @@ if ! command -v python3.11 &> /dev/null; then
   sudo add-apt-repository -y ppa:deadsnakes/ppa
   sudo apt-get update
   sudo apt-get install -y python3.11 python3.11-venv python3.11-dev
+  sudo apt install tmux
 fi
 
 # Create virtual environment if it doesn't exist
