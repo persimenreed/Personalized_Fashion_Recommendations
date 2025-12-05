@@ -29,7 +29,8 @@ data/submission/
 venv/
 .env.*/
 
-# Datasets and outputs
+# Datasets, output and misc
 data
 models/catboost_info/
-test.ipynb
+helper/*
+startup.sh
