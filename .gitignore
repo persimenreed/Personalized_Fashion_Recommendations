@@ -32,5 +32,5 @@ venv/
 # Datasets, output and misc
 data
 models/catboost_info/
-helper/*
+helper
 startup.sh
