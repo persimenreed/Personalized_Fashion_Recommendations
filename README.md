@@ -1,6 +1,6 @@
 # Personalized Fashion Recommendations (H&M)
 
-This repository contains a fully functional setup for the H&M Personalized Fashion Recommendation competition.
+This repository contains a fully functional two-stage setup for the H&M Personalized Fashion Recommendation competition. We first generate candidates, then the three rankers XGBoost, CatBoost and LightGBM can rank those candidates.
 The workflow is not yet fully automated, so this guide explains the exact order in which to run each step.
 
 Minimal run order for the competition setup. Keep the dates below in sync with the `date` field at the top of each notebook.
